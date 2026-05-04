@@ -1,0 +1,41 @@
+Post Linkedin
+Referencia:
+https://www.cisa.gov/resources-tools/resources/adapting-zero-trust-principles-operational-technology
+https://www.cisa.gov/sites/default/files/2026-04/joint-guide-adapting-zero-trust-principles-to-operational-technology_508c.pdf
+Adapting Zero Trust Principles to Operational Technology
+
+Publication: April 29, 2026 
+Cybersecurity and Infrastructure Security Agency 
+Department of War 
+Department of Energy 
+Federal Bureau of Investigation 
+Department of State
+
+****************************************************************************************************************************************
+
+OT entrou definitivamente no centro da agenda de cibersegurança — e quem ainda trata o tema como "problema da engenharia" está atrasado.
+
+Na semana passada, a CISA, em conjunto com o Department of War, Department of Energy, FBI, Department of State e NIST, publicou o guia "Adapting Zero Trust Principles to Operational Technology". Não é mais um whitepaper genérico. É um recado claro de cinco agências dos EUA para donos de infraestrutura crítica: a confiança implícita acabou — inclusive na planta industrial.
+Por que isso importa agora?
+
+A convergência IT/OT deixou de ser tendência e virou realidade operacional. Sistemas que viviam isolados — controle de energia, água, transporte, automação predial, manufatura — estão hoje interconectados, monitorados digitalmente e operados remotamente. Cada nova conexão é também um novo vetor de ataque.
+E os adversários sabem disso. O grupo Volt Typhoon já foi observado se posicionando dentro de redes de TI justamente para escalar lateralmente até ativos de OT em caso de conflito geopolítico. A pergunta não é mais "se" — é "quando" e "com qual impacto físico".
+O que muda na prática?
+
+O guia é direto em um ponto que muita gente ainda resiste a aceitar: não dá para copiar e colar Zero Trust de TI em OT. Plantas industriais têm restrições reais — janelas de patching limitadas, equipamentos com 20+ anos de vida útil, requisitos de disponibilidade e segurança física que tornam qualquer parada uma decisão crítica.
+A abordagem proposta, estruturada nas seis funções do NIST CSF 2.0 (Govern, Identify, Protect, Detect, Respond, Recover), prioriza:
+
+  → Inventário de ativos via monitoramento passivo
+  → Segmentação por zonas e conduits (alinhado ao ISA/IEC 62443)
+  → Identidade e acesso adaptados a sistemas legados
+  → Acesso remoto via jump hosts com MFA
+  → Gestão de risco de cadeia de suprimentos integrada à compra
+  → Colaboração contínua entre engenheiros de processo, arquitetos de TI e cibersegurança
+
+A leitura estratégica
+Os grandes atores estão se movendo de forma coordenada. CISA com ZTMM, DoD com a Reference Architecture v2.0, DOE com sua Cybersecurity Strategy, e a base internacional do ISA/IEC 62443 — tudo convergindo para uma mensagem unificada. Quem opera infraestrutura crítica no Brasil — energia, saneamento, óleo e gás, mineração, manufatura, mobilidade — precisa entender que esse é o piso regulatório que vai chegar aqui, não o teto.
+A pergunta para C-levels e líderes de segurança não é mais "vamos investir em OT security?". É: "qual é a nossa maturidade frente ao que já é benchmark internacional, e quanto tempo temos até que isso vire requisito contratual ou regulatório?"
+
+
+
+#Cybersecurity #OTSecurity #ZeroTrust #InfraestruturaCrítica #CISA #ICS #NIST #IEC62443 
